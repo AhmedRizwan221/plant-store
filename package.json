@@ -2,7 +2,7 @@
   "name": "plant-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AhmedRizwan221/plant-store.git",
+  "homepage": "https://ahmedrizwan221.github.io/plant-store",
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.1",
     "@testing-library/dom": "^10.4.0",
