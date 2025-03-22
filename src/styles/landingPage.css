@@ -1,0 +1,64 @@
+.landing-container {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10%;
+    color: white;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+}
+
+/* Pseudo-element for background image with opacity */
+.landing-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("../assets/landing-bg.jpg"); /* Ensure image is in the correct folder */
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5; /* Adjust the opacity level */
+    z-index: -1;
+}
+
+.landing-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+    z-index: 1; /* Ensures text is above the background */
+}
+
+.landing-title {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.get-started-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 40%;
+    height: auto;
+}
+
+.get-started-btn:hover {
+    background-color: #45a049;
+}
+
+.landing-right {
+    max-width: 40%;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    z-index: 1; /* Ensures text is above the background */
+}
