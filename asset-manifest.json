@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/AhmedRizwan221/plant-store.git/static/css/main.9724d6d3.css",
-    "main.js": "/AhmedRizwan221/plant-store.git/static/js/main.411d1d95.js",
-    "static/js/453.8458e360.chunk.js": "/AhmedRizwan221/plant-store.git/static/js/453.8458e360.chunk.js",
-    "static/media/landing-bg.jpg": "/AhmedRizwan221/plant-store.git/static/media/landing-bg.954857376d19d84e0d19.jpg",
-    "static/media/snake.jpg": "/AhmedRizwan221/plant-store.git/static/media/snake.eb5f267700de99995ff7.jpg",
-    "static/media/Aloe.webp": "/AhmedRizwan221/plant-store.git/static/media/Aloe.7f5bf3320b39f90a1e04.webp",
-    "static/media/pothos.jpeg": "/AhmedRizwan221/plant-store.git/static/media/pothos.768034b3f2f56a4346f8.jpeg",
-    "index.html": "/AhmedRizwan221/plant-store.git/index.html",
-    "main.9724d6d3.css.map": "/AhmedRizwan221/plant-store.git/static/css/main.9724d6d3.css.map",
-    "main.411d1d95.js.map": "/AhmedRizwan221/plant-store.git/static/js/main.411d1d95.js.map",
-    "453.8458e360.chunk.js.map": "/AhmedRizwan221/plant-store.git/static/js/453.8458e360.chunk.js.map"
+    "main.css": "/plant-store/static/css/main.45f13fa3.css",
+    "main.js": "/plant-store/static/js/main.5d9af798.js",
+    "static/js/453.8458e360.chunk.js": "/plant-store/static/js/453.8458e360.chunk.js",
+    "static/media/landing-bg.jpg": "/plant-store/static/media/landing-bg.954857376d19d84e0d19.jpg",
+    "static/media/snake.jpg": "/plant-store/static/media/snake.eb5f267700de99995ff7.jpg",
+    "static/media/Aloe.webp": "/plant-store/static/media/Aloe.7f5bf3320b39f90a1e04.webp",
+    "static/media/pothos.jpeg": "/plant-store/static/media/pothos.768034b3f2f56a4346f8.jpeg",
+    "index.html": "/plant-store/index.html",
+    "main.45f13fa3.css.map": "/plant-store/static/css/main.45f13fa3.css.map",
+    "main.5d9af798.js.map": "/plant-store/static/js/main.5d9af798.js.map",
+    "453.8458e360.chunk.js.map": "/plant-store/static/js/453.8458e360.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9724d6d3.css",
-    "static/js/main.411d1d95.js"
+    "static/css/main.45f13fa3.css",
+    "static/js/main.5d9af798.js"
   ]
 }
