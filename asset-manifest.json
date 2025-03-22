@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/AhmedRizwan221/plant-store.git/static/css/main.f855e6bc.css",
-    "main.js": "/AhmedRizwan221/plant-store.git/static/js/main.d25ff2e4.js",
+    "main.css": "/AhmedRizwan221/plant-store.git/static/css/main.9724d6d3.css",
+    "main.js": "/AhmedRizwan221/plant-store.git/static/js/main.411d1d95.js",
     "static/js/453.8458e360.chunk.js": "/AhmedRizwan221/plant-store.git/static/js/453.8458e360.chunk.js",
-    "static/media/logo.svg": "/AhmedRizwan221/plant-store.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/landing-bg.jpg": "/AhmedRizwan221/plant-store.git/static/media/landing-bg.954857376d19d84e0d19.jpg",
+    "static/media/snake.jpg": "/AhmedRizwan221/plant-store.git/static/media/snake.eb5f267700de99995ff7.jpg",
+    "static/media/Aloe.webp": "/AhmedRizwan221/plant-store.git/static/media/Aloe.7f5bf3320b39f90a1e04.webp",
+    "static/media/pothos.jpeg": "/AhmedRizwan221/plant-store.git/static/media/pothos.768034b3f2f56a4346f8.jpeg",
     "index.html": "/AhmedRizwan221/plant-store.git/index.html",
-    "main.f855e6bc.css.map": "/AhmedRizwan221/plant-store.git/static/css/main.f855e6bc.css.map",
-    "main.d25ff2e4.js.map": "/AhmedRizwan221/plant-store.git/static/js/main.d25ff2e4.js.map",
+    "main.9724d6d3.css.map": "/AhmedRizwan221/plant-store.git/static/css/main.9724d6d3.css.map",
+    "main.411d1d95.js.map": "/AhmedRizwan221/plant-store.git/static/js/main.411d1d95.js.map",
     "453.8458e360.chunk.js.map": "/AhmedRizwan221/plant-store.git/static/js/453.8458e360.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.d25ff2e4.js"
+    "static/css/main.9724d6d3.css",
+    "static/js/main.411d1d95.js"
   ]
 }
