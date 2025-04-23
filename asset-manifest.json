@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/plant-store/static/css/main.45f13fa3.css",
-    "main.js": "/plant-store/static/js/main.c36e11d6.js",
+    "main.css": "/plant-store/static/css/main.d11c1aff.css",
+    "main.js": "/plant-store/static/js/main.9ae03d17.js",
     "static/js/453.8458e360.chunk.js": "/plant-store/static/js/453.8458e360.chunk.js",
-    "static/media/landing-bg.jpg": "/plant-store/static/media/landing-bg.954857376d19d84e0d19.jpg",
+    "static/media/nurcery.avif": "/plant-store/static/media/nurcery.c7880e4bec0ecdd650d8.avif",
+    "static/media/Tropical.webp": "/plant-store/static/media/Tropical.136bf9f750602d37d316.webp",
     "static/media/snake.jpg": "/plant-store/static/media/snake.eb5f267700de99995ff7.jpg",
     "static/media/Aloe.webp": "/plant-store/static/media/Aloe.7f5bf3320b39f90a1e04.webp",
+    "static/media/Parlar-Palm.jpg": "/plant-store/static/media/Parlar-Palm.70793853af339400bccb.jpg",
+    "static/media/Prayer-Plant.jpg": "/plant-store/static/media/Prayer-Plant.5dae808981119b47c3b7.jpg",
+    "static/media/Rubber-Plant.webp": "/plant-store/static/media/Rubber-Plant.efbfb7ae35b837b79f98.webp",
     "static/media/pothos.jpeg": "/plant-store/static/media/pothos.768034b3f2f56a4346f8.jpeg",
+    "static/media/Money-Plant.jpeg": "/plant-store/static/media/Money-Plant.523fdeb3c87aacf8d41e.jpeg",
+    "static/media/Peace-Lily.webp": "/plant-store/static/media/Peace-Lily.8b7fd824e4716ea133bc.webp",
     "index.html": "/plant-store/index.html",
-    "main.45f13fa3.css.map": "/plant-store/static/css/main.45f13fa3.css.map",
-    "main.c36e11d6.js.map": "/plant-store/static/js/main.c36e11d6.js.map",
+    "main.d11c1aff.css.map": "/plant-store/static/css/main.d11c1aff.css.map",
+    "main.9ae03d17.js.map": "/plant-store/static/js/main.9ae03d17.js.map",
     "453.8458e360.chunk.js.map": "/plant-store/static/js/453.8458e360.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45f13fa3.css",
-    "static/js/main.c36e11d6.js"
+    "static/css/main.d11c1aff.css",
+    "static/js/main.9ae03d17.js"
   ]
 }
