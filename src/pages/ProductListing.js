@@ -9,7 +9,7 @@ const ProductListing = () => {
   const dispatch = useDispatch();
 
   // Get products and cart from Redux
-  const products = useSelector((state) => state.products.items); // Adjust based on your store structure
+  const products = useSelector((state) => state.products.items);
   const cart = useSelector((state) => state.cart.items);
 
   // Handle add to cart
