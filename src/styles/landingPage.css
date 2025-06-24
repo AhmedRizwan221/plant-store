@@ -61,3 +61,24 @@
     line-height: 1.5;
     z-index: 1; 
 }
+
+@media screen and (max-width: 767px) {
+    .landing-container{
+        flex-direction: column;
+        justify-content: normal;
+        padding-inline: 10%;
+    }
+    .landing-left .landing-title {
+        font-size: 2rem;
+    }
+    .landing-left .get-started-btn {
+        width: 100%;
+    }
+    .landing-right {
+        max-width: 100%;
+    }
+    .landing-right p {
+        padding-inline: 10%;
+        
+    }
+}
