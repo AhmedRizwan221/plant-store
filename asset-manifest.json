@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/plant-store/static/css/main.8754b504.css",
-    "main.js": "/plant-store/static/js/main.2ab7f30f.js",
+    "main.css": "/plant-store/static/css/main.e4cc3e41.css",
+    "main.js": "/plant-store/static/js/main.b5a2d078.js",
     "static/js/453.8458e360.chunk.js": "/plant-store/static/js/453.8458e360.chunk.js",
     "static/media/nurcery.avif": "/plant-store/static/media/nurcery.c7880e4bec0ecdd650d8.avif",
     "static/media/Tropical.webp": "/plant-store/static/media/Tropical.136bf9f750602d37d316.webp",
@@ -14,12 +14,12 @@
     "static/media/Money-Plant.jpeg": "/plant-store/static/media/Money-Plant.523fdeb3c87aacf8d41e.jpeg",
     "static/media/Peace-Lily.webp": "/plant-store/static/media/Peace-Lily.8b7fd824e4716ea133bc.webp",
     "index.html": "/plant-store/index.html",
-    "main.8754b504.css.map": "/plant-store/static/css/main.8754b504.css.map",
-    "main.2ab7f30f.js.map": "/plant-store/static/js/main.2ab7f30f.js.map",
+    "main.e4cc3e41.css.map": "/plant-store/static/css/main.e4cc3e41.css.map",
+    "main.b5a2d078.js.map": "/plant-store/static/js/main.b5a2d078.js.map",
     "453.8458e360.chunk.js.map": "/plant-store/static/js/453.8458e360.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8754b504.css",
-    "static/js/main.2ab7f30f.js"
+    "static/css/main.e4cc3e41.css",
+    "static/js/main.b5a2d078.js"
   ]
 }
